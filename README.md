@@ -5,7 +5,7 @@ A secure web-based job portal application built using Spring MVC framework with 
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/Screenshot2026-01-07124714.png)
+![Login Page](screenshots/Screenshot 2026-01-07 124714.png)
 
 ### Home Page
 ![Home Page](screenshots/Screenshot2026-01-07124734.png)
