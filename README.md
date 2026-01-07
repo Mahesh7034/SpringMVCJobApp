@@ -2,6 +2,33 @@
 
 A secure web-based job portal application built using Spring MVC framework with Spring Security authentication. The application allows authenticated users to browse jobs, apply for positions, and view their application history.
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/Screenshot2026-01-07124714.png)
+
+### Home Page
+![Home Page](screenshots/Screenshot2026-01-07124734.png)
+
+### Job Details Page
+![Job Details Page](screenshots/Screenshot2026-01-07124837)
+
+### Apply Job
+![Apply Job](screenshots/Screenshot2026-01-07124953)
+
+### Profile Menu
+![Profile Menu](screenshots/Screenshot2026-01-07124810)
+
+### Profile Page
+![Profile Page](screenshots/Screenshot2026-01-07124847)
+
+### My Applications
+![My Applications](screenshots/Screenshot2026-01-07124757)
+
+### Post Job
+![Post Job](screenshots/Screenshot2026-01-07124909)
+
+
 ## Features
 
 - **User Authentication & Authorization**
